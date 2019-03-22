@@ -15,7 +15,7 @@
 			"urltoimage": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
 			"urltovideo": "null",
 			"publishdate": "2019-03-14T04:00:35Z",
-			"type": "holepage",
+			"type": "wholepage",
 			"arrayofimages": []
 
 		}, {
