@@ -1,7 +1,7 @@
 
 {
 	"News_list": [{
-			"id": "Bussiness",
+			"category": "Bussiness",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "null",
 			"urltovideo": "opZ69P-0Jbc",
@@ -10,7 +10,7 @@
 			"arrayofimages": []
 
 		}, {
-			"id": "Bussiness",
+			"category": "Bussiness",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
 			"urltovideo": "null",
@@ -19,7 +19,7 @@
 			"arrayofimages": []
 
 		}, {
-			"id": "Bussiness",
+			"category": "Bussiness",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "null",
 			"urltovideo": "null",
